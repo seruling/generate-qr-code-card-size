@@ -10,3 +10,7 @@ https://stackoverflow.com/questions/6444548/how-do-i-get-the-picture-size-with-p
 https://stackoverflow.com/questions/1970807/center-middle-align-text-with-pil
 
 Roboto fonts - https://fonts.google.com/specimen/Roboto
+
+require:
+qrcode - https://pypi.org/project/qrcode/
+pillow - https://pypi.org/project/Pillow/2.2.2/ 
