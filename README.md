@@ -1,2 +1,3 @@
 # generate-qr-code-card-size
-create a card-size contain qr code and some text
+
+Creating a credit-card size image with qrcode and text. can work on adding logo and other stuff
