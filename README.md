@@ -2,7 +2,7 @@
 
 Creating a credit-card size image with qrcode and text. can work on adding logo and other stuff
 
-references:
+references:<br/>
 https://ourcodeworld.com/articles/read/554/how-to-create-a-qr-code-image-or-svg-in-python
 https://www.geeksforgeeks.org/working-images-python/
 https://kite.com/python/examples/3197/pil-write-text-on-an-image
@@ -11,6 +11,6 @@ https://stackoverflow.com/questions/1970807/center-middle-align-text-with-pil
 
 Roboto fonts - https://fonts.google.com/specimen/Roboto
 
-require:
-qrcode - https://pypi.org/project/qrcode/
+require: <br/>
+qrcode - https://pypi.org/project/qrcode/<br/>
 pillow - https://pypi.org/project/Pillow/2.2.2/ 
